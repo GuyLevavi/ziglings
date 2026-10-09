@@ -34,7 +34,6 @@
           zig-overlay.packages.${system}."master-2026-09-28"
           zls.packages.${system}.default
         ];
-        shellHook = "exec fish";
       };
     };
 }
